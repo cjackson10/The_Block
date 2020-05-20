@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    background-image: url("kente.png");
+    background-repeat: repeat-x;
+}
+
+.title {
+    color: black;
+    text-align: center;
+}
+
+
+p {
+    font-family: Comic;
+    font-size: 20px;
+    color: black;
+    text-indent: left;
+}

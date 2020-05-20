@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+
+h2 {
+    font-family: Comic;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+body {
+    background-image: url("kente.png");
+    background-repeat: repeat-x;
+}
